@@ -1,0 +1,1 @@
+# Las-Reglas-de-las-particiones-BIOS-MBR-DOS
